@@ -1,0 +1,5 @@
+department_name, number_of_employees, head_office_location, manager_id
+HR, 25,London,1
+Driver,50,London,2
+Packager,45,Manchester,3
+Manager,5,Leeds,4
